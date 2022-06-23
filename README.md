@@ -1,9 +1,3 @@
-# Install
-
-git clone <repo>
-
-# Start
-
-cd <folder>
-npm Install
-npm start
+git clone repository
+npm install
+npm build / npm clean / npm start
